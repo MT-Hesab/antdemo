@@ -7,7 +7,7 @@ import RegistrationForm from './components/form';
 
 ReactDOM.render(
   <React.StrictMode>
-    <RegistrationForm />
+    <RegistrationForm />,
   </React.StrictMode>,
   document.getElementById('root')
 );

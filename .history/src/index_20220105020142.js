@@ -6,9 +6,9 @@ import reportWebVitals from './reportWebVitals';
 import RegistrationForm from './components/form';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <RegistrationForm />
-  </React.StrictMode>,
+  //<React.StrictMode>
+    <RegistrationForm />,
+  //</React.StrictMode>,
   document.getElementById('root')
 );
 
